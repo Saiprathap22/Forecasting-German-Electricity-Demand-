@@ -1,0 +1,8 @@
+time_series_60min_singleindex.csv
+*.csv
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
